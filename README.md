@@ -20,8 +20,6 @@ Este projeto foi desenvolvido como parte da atividade prática da disciplina de 
 
 A atividade tem como objetivo consolidar conceitos fundamentais relacionados à execução concorrente de processos e threads, especialmente **Seção Crítica, Condição de Corrida, Deadlock e Inanição (Starvation)**.
 
-Para isso, foram estudados e aplicados diferentes mecanismos de sincronização, como **Semáforos, Mutexes e Monitores**.
-
 O grupo ficou responsável pela implementação do problema clássico do **Jantar dos Filósofos**, utilizando **Mutexes em linguagem C** e a biblioteca **POSIX Threads (pthreads)**.
 
 O projeto busca demonstrar, por meio de uma simulação concorrente, como diferentes threads podem disputar recursos compartilhados e como mecanismos de exclusão mútua podem ser utilizados para controlar esse acesso.
@@ -531,9 +529,8 @@ Permitir que o usuário escolha:
 
 ### Integrantes do Grupo
 
-* **[Nome do integrante 1]**
-* **[Nome do integrante 2]**
-* **[Nome do integrante 3]**
-* **[Nome do integrante 4]**
+* **[Jaelson Dias](https://github.com/JaelsonDiasJr)**
+* **[Jayanny Santana](https://github.com/jay-santana)**
+* **[Maria Clara Sousa](https://github.com/clarasousa13)**
 
 ---
